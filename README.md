@@ -1,7 +1,7 @@
 # Portfolio-Web-Template
  
 This is the default template(v1) source code of the portfolio site https://farazkhan.xyz/
-Libiraries used: TailwindCSS, Flowbite, AOS Animate, Three.js, Vanta.js
+Libraries used: TailwindCSS, Flowbite, AOS Animate, Three.js, Vanta.js
 Deployed using Netlify.
 
 ## How to setup/use:
